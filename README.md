@@ -12,7 +12,7 @@
     - Wander
     - Obstacle Avoidance
 
-![Captura](https://user-images.githubusercontent.com/61831013/125986150-6b222897-bf54-47b9-a680-3dcea67083da.PNG)
+![Captura](https://user-images.githubusercontent.com/61831013/125989484-befe5aa1-6c06-4e0d-b63d-a936c32d8fbf.PNG)
 
 Author: Daniel Guerra Gallardo
 
